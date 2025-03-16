@@ -1,5 +1,5 @@
 
-import { Phone, Mail, MapPin, Send, Download, Linkedin, GitHub, Twitter } from "lucide-react";
+import { Phone, Mail, MapPin, Send, Download, Linkedin, Github, Twitter } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const ContactInfo = ({ 
