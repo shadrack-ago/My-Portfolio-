@@ -88,7 +88,7 @@ const Contact = () => {
                   href="#" 
                   className="bg-gray-100 p-3 rounded-full hover:bg-todo-blue hover:text-white transition-colors"
                 >
-                  <GitHub size={20} />
+                  <Github size={20} />
                 </a>
                 <a 
                   href="#" 
